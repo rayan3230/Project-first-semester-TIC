@@ -1,0 +1,17 @@
+
+ 
+#id1{
+    color:rgb(0, 8, 255)
+}
+
+.c{
+    color:red
+}
+ table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+     text-align: center;
+ }
+  table{ 
+    width: 80%;
+  }
